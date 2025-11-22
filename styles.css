@@ -33,7 +33,7 @@ section {
 .nav-links a {
     color: #c084f7;
     text-decoration: none;
-    font-size: 90px;
+    font-size: 30px;
 }
 
 .nav-links a:hover {
@@ -41,7 +41,7 @@ section {
 }
 
 .logo img {
-    height: 1500px;
+    height: 500px;
 }
 
 /* --- HERO --- */
